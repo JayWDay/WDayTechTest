@@ -1,0 +1,2 @@
+# WDayTechTest
+Efficient Range Queries
